@@ -66,6 +66,10 @@ Follow this quick workflow to make and print a drawer:
 ![](images/orientation_drawer_mount.png)
 *drawer_mount component orientation*
 
+> Note:
+>
+> drawer_mount component has built-in supports, you don't need to add them into the slicer.
+
 ![](images/orientation_drawer.png)
 *drawer component orientation*
 
