@@ -63,21 +63,21 @@ Follow this quick workflow to make and print a drawer:
 
 **STL orientation**
 
-![](images/orientation_drawer_mount.png)
+![](images/orientation_drawer_mount.png)<br>
 *drawer_mount component orientation*
 
 > Note:
 >
 > drawer_mount component has built-in supports, you don't need to add them into the slicer.
 
-![](images/orientation_drawer.png)
+![](images/orientation_drawer.png)<br>
 *drawer component orientation*
 
-![](images/orientation_handle.png)
+![](images/orientation_handle.png)<br>
 *handle component orientation*
 
-![](images/orientation_joint.png)
+![](images/orientation_joint.png)<br>
 *joint component orientation*
 
-![](images/orientation_spring.png)
+![](images/orientation_spring.png)<br>
 *spring component orientation*
