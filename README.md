@@ -61,5 +61,19 @@ Follow this quick workflow to make and print a drawer:
 **Licensing & attribution**
 - Include a clear license in this repository (e.g., `LICENSE` file). If you plan to release models derived from Gridfinity community designs, follow their attribution / license requirements.
 
+**STL orientation**
 
+![](images/orientation_drawer_mount.png)
+*drawer_mount component orientation*
 
+![](images/orientation_drawer.png)
+*drawer component orientation*
+
+![](images/orientation_handle.png)
+*handle component orientation*
+
+![](images/orientation_joint.png)
+*joint component orientation*
+
+![](images/orientation_spring.png)
+*spring component orientation*
