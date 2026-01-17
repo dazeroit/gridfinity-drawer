@@ -44,10 +44,10 @@ Follow this quick workflow to make and print a drawer:
 - Slice the exported STL and print with your printer settings.
 
 **Printing & slicing guidance**
-- **Orientation:** Print the drawer body upright (open face up) where practical to avoid support inside the cavity; for better surface on the outer walls, orient accordingly.
+- **Orientation:** See pictures below.
 - **Layer height:** 0.2.
 - **Wall/perimeters:** 2–3 perimeters for strength.
-- **Infill:** 10–25% for general use; increase for heavy loads.
+- **Infill:** 10–25% for general use.
 - **Bridging:** If the design has internal bridges, ensure your slicer settings handle short bridges well.
 - **Test print:** Always print a small tolerance test (single-module connector and mating slot) before committing to many copies.
 
